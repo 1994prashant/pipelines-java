@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/PR325775/PR325775/_apis/build/status/1994prashant.pipelines-java?branchName=master)](https://dev.azure.com/PR325775/PR325775/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
